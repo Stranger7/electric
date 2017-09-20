@@ -9,7 +9,7 @@ $config = [
     'bootstrap' => ['log'],
     'components' => [
         'request' => [
-            'cookieValidationKey' => '1234451311чфавфыа',
+            'cookieValidationKey' => '0803b99ca3a30421b51a9b9c483d4c92',
         ],
         'cache' => [
             'class' => 'yii\caching\FileCache',
